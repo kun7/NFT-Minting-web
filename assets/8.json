@@ -1,0 +1,58 @@
+{
+  "name": "Eyeball eth #8",
+  "symbol": "YC",
+  "description": "whatever eye you might see, you've never seen this one",
+  "seller_fee_basis_points": 250,
+  "image": "8.png",
+  "external_url": "https://www.youtube.com/c/hashlipsnft",
+  "edition": 8,
+  "collection": {
+    "name": "Eyeball Eth ",
+    "family": "Eyeball Eth "
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "8.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+        "share": 100
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "High"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "High"
+    }
+  ]
+}
